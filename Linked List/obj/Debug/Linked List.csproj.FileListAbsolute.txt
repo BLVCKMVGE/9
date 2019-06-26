@@ -1,0 +1,14 @@
+C:\Users\XJIE6yIIIEK\source\repos\Linked List\Linked List\bin\Debug\Linked List.exe.config
+C:\Users\XJIE6yIIIEK\source\repos\Linked List\Linked List\bin\Debug\Linked List.exe
+C:\Users\XJIE6yIIIEK\source\repos\Linked List\Linked List\bin\Debug\Linked List.pdb
+C:\Users\XJIE6yIIIEK\source\repos\Linked List\Linked List\obj\Debug\Linked List.csprojAssemblyReference.cache
+C:\Users\XJIE6yIIIEK\source\repos\Linked List\Linked List\obj\Debug\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\XJIE6yIIIEK\source\repos\Linked List\Linked List\obj\Debug\Linked List.exe
+C:\Users\XJIE6yIIIEK\source\repos\Linked List\Linked List\obj\Debug\Linked List.pdb
+C:\Users\Милхаус ВанХутен\Desktop\Linked List\Linked List\bin\Debug\Linked List.exe.config
+C:\Users\Милхаус ВанХутен\Desktop\Linked List\Linked List\bin\Debug\Linked List.exe
+C:\Users\Милхаус ВанХутен\Desktop\Linked List\Linked List\bin\Debug\Linked List.pdb
+C:\Users\Милхаус ВанХутен\Desktop\Linked List\Linked List\obj\Debug\Linked List.csprojAssemblyReference.cache
+C:\Users\Милхаус ВанХутен\Desktop\Linked List\Linked List\obj\Debug\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Милхаус ВанХутен\Desktop\Linked List\Linked List\obj\Debug\Linked List.exe
+C:\Users\Милхаус ВанХутен\Desktop\Linked List\Linked List\obj\Debug\Linked List.pdb
